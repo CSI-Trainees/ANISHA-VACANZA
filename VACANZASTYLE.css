@@ -1,0 +1,33 @@
+h1{
+	color: pink;
+	width:200px;
+	border:2px solid blue;
+}
+body{
+	background:url(background.png);
+	background-size: cover;
+}
+.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	opacity: 0.9;
+}
+.va{
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 55px;
+}
+.button1{
+	border-radius: 30px;
+	background-color: transparent;
+    border: solid;
+    color:  rgb(0,160,162);
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    }
+.mybuttons{
+	text-align: center;
+}
