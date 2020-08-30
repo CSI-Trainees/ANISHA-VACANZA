@@ -1,3 +1,15 @@
+h1{
+	font-family:  Arial, Helvetica, sans-serif;
+	color:  rgb(0,160,162);
+}
+.bars {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+  text-align: left;
+
+}
 
 .part1{
 	background:url(background.png);
